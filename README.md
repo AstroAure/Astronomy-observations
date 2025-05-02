@@ -32,4 +32,3 @@ This repository is a summary of all my astronomy observations. It is updated sem
 | TIC 272758199.01 |         12960.00 |             72 |     237.32 |       71.44 | 2025-03-18 | 2025-03-19 |
 | TOI-2154b        |         12480.00 |            104 |      71.00 |       84.36 | 2025-03-27 | 2025-03-27 |
 
-|
