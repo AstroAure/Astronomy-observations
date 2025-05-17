@@ -10,14 +10,15 @@ This repository is a summary of all my astronomy observations. It is updated sem
 
 ## Observations statistics
 
-* Total number of observations: 4534
-* Total exposure time: 239775s = 66h 36m 15s
+* Total number of observations: 4606
+* Total exposure time: 252735s = 70h 12m 15s
 
 | Target           |   Total time (s) |   Observations |   RA (deg) |   DEC (deg) | First      | Last       |
 |------------------|------------------|----------------|------------|-------------|------------|------------|
 | 29/Amphitrite    |          4710.00 |            157 |     141.00 |       19.16 | 2025-03-18 | 2025-03-18 |
 | Coma Cluster     |         15600.00 |            201 |     194.99 |       27.99 | 2025-04-30 | 2025-05-01 |
 | Crab Nebula      |          7200.00 |            260 |      83.63 |       22.01 | 2025-03-02 | 2025-03-02 |
+| HAT-P-18 b       |         12960.00 |             72 |     256.35 |       33.01 | 2025-05-16 | 2025-05-16 |
 | HAT-P-20b        |          7080.00 |             59 |     111.92 |       24.34 | 2025-03-07 | 2025-03-08 |
 | Horsehead Nebula |         17960.00 |            715 |      85.27 |       -2.47 | 2025-01-11 | 2025-01-12 |
 | M 100            |          6000.00 |             70 |     185.56 |       15.72 | 2025-05-14 | 2025-05-14 |
