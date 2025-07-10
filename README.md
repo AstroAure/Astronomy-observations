@@ -10,8 +10,8 @@ This repository is a summary of all my astronomy observations. It is updated sem
 
 ## Observations statistics
 
-* Total number of observations: 4606
-* Total exposure time: 252735s = 70h 12m 15s
+* Total number of observations: 5039
+* Total exposure time: 269805s = 74h 56m 45s
 
 | Target           |   Total time (s) |   Observations |   RA (deg) |   DEC (deg) | First      | Last       |
 |------------------|------------------|----------------|------------|-------------|------------|------------|
@@ -22,6 +22,7 @@ This repository is a summary of all my astronomy observations. It is updated sem
 | HAT-P-20b        |          7080.00 |             59 |     111.92 |       24.34 | 2025-03-07 | 2025-03-08 |
 | Horsehead Nebula |         17960.00 |            715 |      85.27 |       -2.47 | 2025-01-11 | 2025-01-12 |
 | M 100            |          6000.00 |             70 |     185.56 |       15.72 | 2025-05-14 | 2025-05-14 |
+| M 27             |         17070.00 |            433 |     299.90 |       22.72 | 2025-07-09 | 2025-07-10 |
 | M 3              |         13905.00 |            470 |     205.55 |       28.38 | 2024-03-06 | 2025-04-11 |
 | M 51             |         20730.00 |            261 |     202.48 |       47.20 | 2025-04-04 | 2025-04-05 |
 | M 63             |         16980.00 |            181 |     198.95 |       42.03 | 2025-05-14 | 2025-05-15 |
