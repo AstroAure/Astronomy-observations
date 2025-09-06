@@ -10,8 +10,8 @@ This repository is a summary of all my astronomy observations. It is updated sem
 
 ## Observations statistics
 
-* Total number of observations: 5575
-* Total exposure time: 307825s = 85h 30m 25s
+* Total number of observations: 6091
+* Total exposure time: 329550s = 91h 32m 30s
 
 | Target           |   Total time (s) |   Observations |   RA (deg) |   DEC (deg) | First      | Last       |
 |------------------|------------------|----------------|------------|-------------|------------|------------|
@@ -28,6 +28,7 @@ This repository is a summary of all my astronomy observations. It is updated sem
 | M 12             |          4710.00 |            107 |     251.82 |       -1.93 | 2025-08-11 | 2025-08-11 |
 | M 27             |         17070.00 |            433 |     299.90 |       22.72 | 2025-07-09 | 2025-07-10 |
 | M 3              |         13485.00 |            459 |     205.55 |       28.38 | 2024-03-06 | 2025-04-11 |
+| M 31             |         21725.00 |            516 |      10.69 |       41.27 | 2025-09-05 | 2025-09-06 |
 | M 51             |         22530.00 |            276 |     202.47 |       47.20 | 2025-04-04 | 2025-08-22 |
 | M 63             |         16980.00 |            181 |     198.95 |       42.03 | 2025-05-14 | 2025-05-15 |
 | M 8              |           510.00 |             17 |     271.00 |      -24.36 | 2025-08-24 | 2025-08-24 |
